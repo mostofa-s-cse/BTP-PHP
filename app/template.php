@@ -74,9 +74,6 @@
                                 <h4 class="font-weight-bold" style="color: #04684A;font-weight: bolder;">B<span style="color: #C92A1D">T</span>P</h4>
                                 <span style="color: black;font-weight: bolder;">Business, Technology and Process Inc.</span>
                             </div>
-                       
-    
-                           
                         <div class="">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                             <ul class="main-menu__list">
