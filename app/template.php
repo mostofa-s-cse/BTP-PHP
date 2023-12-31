@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="btp HTML 5 Template ">
+    <meta name="description" content="btp HTML 5 app ">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,32 +20,32 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/animate.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/custom-animate.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/all.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/jarallax.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/jquery.magnific-popup.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/nouislider.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/nouislider.pips.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/odometer.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/swiper.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/style.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/style_1.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/tiny-slider.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/stylesheet.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/jquery.bxslider.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/vegas.min.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/jquery-ui.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/timePicker.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/ion.rangeSlider.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/animate.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/custom-animate.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/all.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/jarallax.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/jquery.magnific-popup.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/nouislider.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/nouislider.pips.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/odometer.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/swiper.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/style.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/style_1.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/tiny-slider.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/stylesheet.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/jquery.bxslider.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/vegas.min.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/jquery-ui.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/timePicker.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/ion.rangeSlider.min.css">
 
-    <!-- template styles -->
-    <link rel="stylesheet" id="langLtr" href="<?php echo site_url(); ?>/template/assets/css/btp.css">
-    <link rel="stylesheet" href="<?php echo site_url(); ?>/template/assets/css/btp-responsive.css">
+    <!-- app styles -->
+    <link rel="stylesheet" id="langLtr" href="<?php echo site_url(); ?>/app/assets/css/btp.css">
+    <link rel="stylesheet" href="<?php echo site_url(); ?>/app/assets/css/btp-responsive.css">
     <style>
         body {
             font-family: 'Calibri', sans-serif !important;
@@ -216,34 +216,34 @@
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
 
 
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery-3.6.0.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jarallax.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.ajaxchimp.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.appear.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.circle-progress.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.validate.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/nouislider.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/odometer.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/swiper.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/tiny-slider.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/wNumb.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/wow.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/isotope.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/countdown.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/owl.carousel.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.bxslider.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/bootstrap-select.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/vegas.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery-ui.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/timePicker.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.circleType.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/jquery.lettering.min.js"></script>
-    <script src="<?php echo site_url(); ?>/template/assets/js/ion.rangeSlider.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jarallax.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.appear.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.circle-progress.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.validate.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/nouislider.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/odometer.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/swiper.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/tiny-slider.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/wNumb.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/wow.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/isotope.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/countdown.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/owl.carousel.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.bxslider.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/bootstrap-select.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/vegas.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery-ui.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/timePicker.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.circleType.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/jquery.lettering.min.js"></script>
+    <script src="<?php echo site_url(); ?>/app/assets/js/ion.rangeSlider.min.js"></script>
 
-    <!-- template js -->
-    <script src="<?php echo site_url(); ?>/template/assets/js/btp.js"></script>
+    <!-- app js -->
+    <script src="<?php echo site_url(); ?>/app/assets/js/btp.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
 

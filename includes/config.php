@@ -18,8 +18,8 @@ function config($key = '')
             'products'=>'Our Product',
             'contact' => 'Contact Us',
         ],
-        'template_path' => 'template',
-        'content_path' => 'content',
+        'template_path' => 'app',
+        'content_path' => 'pages',
         'version' => 'v1',
     ];
 
